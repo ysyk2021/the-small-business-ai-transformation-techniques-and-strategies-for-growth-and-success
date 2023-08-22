@@ -1,5 +1,4 @@
-Chapter 7: Evaluating the Impact of AI on Small Business Success
-================================================================
+
 
 The use of artificial intelligence (AI) technology can have a significant impact on the success of small businesses. However, it is important for small business owners to carefully evaluate the impact of AI on their operations and understand the tradeoffs involved in AI-enhanced small business transformation.
 

@@ -1,5 +1,4 @@
-Identifying Small Business Processes that Can be Transformed with AI
-==========================================================================================================================================
+
 
 Artificial intelligence (AI) technology can help small businesses achieve growth and success in a competitive marketplace by transforming business processes. In this chapter, we will discuss the steps involved in identifying small business processes that can be transformed with AI.
 
