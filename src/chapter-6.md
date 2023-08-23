@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology can help small businesses innovate and stay ahead of the curve in a competitive marketplace. In this chapter, we will discuss some of the key AI techniques that small businesses can leverage for innovation.
 
 Developing New Products and Services with AI-Powered Idea Generation and Concept Testing

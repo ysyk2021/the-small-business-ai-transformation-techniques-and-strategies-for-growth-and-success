@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has the potential to transform small businesses, increasing efficiency, productivity, and profitability. By leveraging the power of AI, small businesses can improve operations and innovate in ways that were previously impossible.
 
 What is Artificial Intelligence?
