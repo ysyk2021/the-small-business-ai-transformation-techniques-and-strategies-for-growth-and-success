@@ -28,3 +28,4 @@
   - [Balancing Automation with Human Interaction and Expertise](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

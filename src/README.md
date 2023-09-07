@@ -10,3 +10,7 @@ This book, "The Small Business AI Transformation: Techniques and Strategies for 
 The goal of this book is to provide small businesses with actionable insights and recommendations that enable them to leverage AI technology for growth and success. By carefully planning and executing AI adoption, small businesses can achieve their business goals, increase competitiveness, and drive innovation in a rapidly changing marketplace.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
