@@ -1,5 +1,4 @@
-Chapter 15: Balancing Automation with Human Interaction and Expertise
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the delicate balance small businesses must strike between automation and human interaction and expertise as they undertake their AI transformation journey. While automation can streamline processes and enhance efficiency, human touch and expertise remain invaluable in delivering exceptional customer experiences and achieving sustainable growth and success.
 

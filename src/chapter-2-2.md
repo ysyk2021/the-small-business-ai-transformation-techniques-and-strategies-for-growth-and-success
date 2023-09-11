@@ -1,5 +1,4 @@
-Chapter 11: Machine Learning for Predictive Analysis and Decision-Making
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the profound impact of Machine Learning (ML) on small businesses, focusing on its role in predictive analysis and informed decision-making. ML empowers small businesses to harness data-driven insights, anticipate trends, and make strategic decisions that drive growth and success.
 

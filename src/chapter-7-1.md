@@ -1,5 +1,4 @@
-Chapter 13: Understanding the Tradeoffs of AI-Enhanced Small Business Transformation
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the nuanced tradeoffs that small businesses need to consider as they embark on their AI transformation journey. While AI offers immense potential for growth and success, it also presents various challenges and considerations that must be carefully weighed.
 

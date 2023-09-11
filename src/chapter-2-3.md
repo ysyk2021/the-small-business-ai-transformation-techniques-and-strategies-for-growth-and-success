@@ -1,5 +1,4 @@
-Chapter 10: Robotic Process Automation (RPA) for Increased Efficiency and Automation
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the realm of Robotic Process Automation (RPA) and its profound impact on small businesses. RPA, a technology that uses software robots to automate repetitive tasks and processes, can significantly enhance efficiency and productivity, paving the way for growth and success.
 

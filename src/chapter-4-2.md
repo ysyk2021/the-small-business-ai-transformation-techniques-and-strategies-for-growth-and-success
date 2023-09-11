@@ -1,5 +1,4 @@
-Chapter 8: Enhancing Customer Satisfaction with AI-Powered Chatbots and Personalization
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can elevate customer satisfaction by harnessing the capabilities of Artificial Intelligence (AI). Specifically, we'll focus on the implementation of AI-powered chatbots and personalization techniques to create tailored and efficient customer experiences.
 

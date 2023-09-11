@@ -1,5 +1,4 @@
-Chapter 14: Boosting Employee Productivity with AI-Enabled Training and Knowledge Management
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ways in which small businesses can harness the potential of Artificial Intelligence (AI) to enhance employee productivity through AI-enabled training and knowledge management strategies. AI offers innovative solutions for empowering employees with the skills and information they need to contribute effectively to the growth and success of the organization.
 

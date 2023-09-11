@@ -1,5 +1,4 @@
-Chapter 5: Mitigating Risks and Challenges with AI-Driven Risk Assessment and Management
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical role that artificial intelligence (AI) plays in mitigating risks and challenges faced by small businesses. AI-driven risk assessment and management are powerful tools that can help businesses navigate uncertainty and make informed decisions for sustainable growth and success.
 
